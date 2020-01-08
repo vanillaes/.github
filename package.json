@@ -1,0 +1,10 @@
+{
+  "name": "vanillaes",
+  "description": "The main repo for the VanillaES org",
+  "keywords": [
+    "esm",
+    "vanilla",
+    "javascript"
+  ],
+  "license": "(MIT OR CC-BY-SA-4.0)"
+}

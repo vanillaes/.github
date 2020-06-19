@@ -9,8 +9,19 @@ assignees: ''
 
 ## Checklist
 
-<!--
-- [ ] example requirement
+- [ ] absurdum
+- [ ] computer-science
+- [ ] csv
+- [ ] interpolate
+- [ ] frontmeta
+- [ ] jqkill
+- [ ] mock-console
+- [ ] tape-es
+
+<!-- WIP
+- [ ] esmtk
+- [ ] markdown
+- [ ] ujpm
 -->
 
 ## Notes <!--(optional)-->

@@ -12,14 +12,15 @@ assignees: ''
 - [ ] absurdum
 - [ ] computer-science
 - [ ] csv
-- [ ] interpolate
+- [ ] esmtk
 - [ ] frontmeta
+- [ ] interpolate
 - [ ] jqkill
 - [ ] mock-console
+- [ ] monaco-editor-es
 - [ ] tape-es
 
 <!-- WIP
-- [ ] esmtk
 - [ ] markdown
 - [ ] ujpm
 -->

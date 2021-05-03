@@ -2,27 +2,32 @@
 
 Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collective of independent Open Source devs with one goal. To create, share, and promote the use of completely vanilla ESM implementations.
 
-## Repositories
+## CLI Tools
 
-- [Absurdum (L)][] - A functional operator lib but every operator is implemented using reduce
-- [Computer-Science (L)][] - Algorithms and Data Structures implemented with modern JS
-- [CSV (L)][] - A small, fast, RFC4180 compliant CSV parser
-- [Interpolate (L)][] - A tagged template literals parser
-- [FrontMeta (L)][] - A FrontMatter parser for `key:value` metadata
-- [JQKill (C)][] - A linter that locates all references to JQuery
-- [Mock-Console (L)][] - Mock `console` (ie log, info, error) for testing
-- [Tape-ES (C)][] - An ESM-compatible Tape.js test runner
+- [ESMTK][] - ES Module Toolkit
+- [JQKill][] - Locate all references to jQuery for easy removal
+- [Tape-ES][] - ESM-compatible Tape.js test runner
 
-*Key: (L) Library | (C) CLI | (B) Both* 
+## Libraries
 
-[Absurdum (L)]: https://github.com/vanillaes/absurdum
-[Computer-Science (L)]: https://github.com/vanillaes/computer-science
-[CSV (L)]: https://github.com/vanillaes/csv
-[Interpolate (L)]: https://github.com/vanillaes/interpolate
-[FrontMeta (L)]: https://github.com/vanillaes/frontmeta
-[JQKill (C)]: https://github.com/vanillaes/jqkill
-[Mock-Console (L)]: https://github.com/vanillaes/mock-console
-[Tape-ES (C)]: https://github.com/vanillaes/tape-es
+- [Absurdum][] - A functional operator lib but every operator is implemented using reduce
+- [Computer-Science][] - Algorithms and Data Structures implemented in modern JS
+- [CSV][] - A small, fast, RFC4180 compliant CSV parser
+- [FrontMeta][] - A FrontMatter parser for `key:value` metadata
+- [Interpolate][] - Interpret JavaScript tagged literal templates
+- [Mock-Console][] - Mock the 'console' (ie log, info, error) for testing
+- [Monaco-Editor-ES][] - Monaco Editor Builds for ESM
+
+[Absurdum]: https://github.com/vanillaes/absurdum
+[Computer-Science]: https://github.com/vanillaes/computer-science
+[CSV]: https://github.com/vanillaes/csv
+[ESMTK]: https://github.com/vanillaes/esmtk
+[FrontMeta]: https://github.com/vanillaes/frontmeta
+[Interpolate]: https://github.com/vanillaes/interpolate
+[JQKill]: https://github.com/vanillaes/jqkill
+[Mock-Console]: https://github.com/vanillaes/mock-console
+[Monaco-Editor-ES]: https://github.com/vanillaes/monaco-editor-es
+[Tape-ES]: https://github.com/vanillaes/tape-es
 
 ## Resources
 

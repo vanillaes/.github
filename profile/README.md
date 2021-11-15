@@ -34,12 +34,3 @@ Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collecti
 - [ECMAScript Modules | NodeJS][]: Official Documentations for Node ECMAScript Modules API
 
 [ECMAScript Modules | NodeJS]: https://nodejs.org/api/esm.html
-
-## Licenses
-
-This repository is dual-licensed
-- source code is licensed under the [MIT][] license
-- written content, and other assets (ex SVG) are licensed under the [CC-BY-SA-4.0][]
-
-[MIT]: ./LICENSE-MIT
-[CC-BY-SA-4.0]: ./LICENSE-CC-BY-SA

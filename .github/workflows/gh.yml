@@ -13,12 +13,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v6
     - name: Setup
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v6
       with:
-        node-version: 20
+        node-version: 24
         registry-url: 'https://npm.pkg.github.com'
         scope: '@vanillaes'
-        cache: npm
     - run: npm ci
     - name: Publish
       run: npm publish

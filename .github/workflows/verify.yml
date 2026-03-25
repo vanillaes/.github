@@ -22,5 +22,5 @@ jobs:
         run: npm run lint --if-present
       - name: Test
         run: npm t --if-present
-      - name: Types
-        run: npm run types --if-present
+      - name: Type
+        run: npm run type --if-present

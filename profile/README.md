@@ -6,6 +6,7 @@ Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collecti
 
 - [ESMTK][] - ES Module Toolkit
 - [JQKill][] - Locate all references to jQuery for easy removal
+- [Lint-ES][] - Linting for ES Modules (uses NeoStandard + @stylistic + JSDoc ruleset)
 - [Tape-ES][] - ESM-compatible Tape.js test runner
 
 ## Libraries
@@ -25,6 +26,7 @@ Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collecti
 [FrontMeta]: https://github.com/vanillaes/frontmeta
 [Interpolate]: https://github.com/vanillaes/interpolate
 [JQKill]: https://github.com/vanillaes/jqkill
+[Lint-ES]: https://github.com/vanillaes/lint-es
 [Mock-Console]: https://github.com/vanillaes/mock-console
 [Monaco-Editor-ES]: https://github.com/vanillaes/monaco-editor-es
 [Tape-ES]: https://github.com/vanillaes/tape-es

@@ -16,13 +16,13 @@ assignees: ''
 - [ ] frontmeta
 - [ ] interpolate
 - [ ] jqkill
+- [ ] lint-es
 - [ ] mock-console
 - [ ] monaco-editor-es
 - [ ] tape-es
 
 <!-- WIP
 - [ ] markdown
-- [ ] ujpm
 -->
 
 ## Notes <!--(optional)-->

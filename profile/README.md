@@ -4,8 +4,10 @@ Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collecti
 
 ## CLI Tools
 
+- [Core-Utils][] - Cross-Platform POSIX core-utils in JavaScript
 - [ESMTK][] - ES Module Toolkit
 - [JQKill][] - Locate all references to jQuery for easy removal
+- [JSDown][] - Markdown Documentation Generator for JSDoc
 - [Lint-ES][] - Linting for ES Modules (uses NeoStandard + @stylistic + JSDoc ruleset)
 - [Tape-ES][] - ESM-compatible Tape.js test runner
 
@@ -21,11 +23,13 @@ Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collecti
 
 [Absurdum]: https://github.com/vanillaes/absurdum
 [Computer-Science]: https://github.com/vanillaes/computer-science
+[Core-Utils]: https://github.com/vanillaes/core-utils
 [CSV]: https://github.com/vanillaes/csv
 [ESMTK]: https://github.com/vanillaes/esmtk
 [FrontMeta]: https://github.com/vanillaes/frontmeta
 [Interpolate]: https://github.com/vanillaes/interpolate
 [JQKill]: https://github.com/vanillaes/jqkill
+[JSDown]: https://github.com/vanillaes/jsdown
 [Lint-ES]: https://github.com/vanillaes/lint-es
 [Mock-Console]: https://github.com/vanillaes/mock-console
 [Monaco-Editor-ES]: https://github.com/vanillaes/monaco-editor-es

@@ -2,10 +2,15 @@
 
 Welcome to the Vanilla ECMAScript Modules (ESM) organization. This is a collective of independent Open Source devs with one goal. To create, share, and promote the use of completely vanilla ESM implementations.
 
+## The Toolkit
+
+Fully-loaded for ESModule development. Including tools for testing, linting, type-checking, bundling, minifying, adding types. 
+
+- [ESMTK][] - ES Module Toolkit
+
 ## CLI Tools
 
 - [Core-Utils][] - Cross-Platform POSIX core-utils in JavaScript
-- [ESMTK][] - ES Module Toolkit
 - [JQKill][] - Locate all references to jQuery for easy removal
 - [JSDown][] - Markdown Documentation Generator for JSDoc
 - [Lint-ES][] - Linting for ES Modules (uses NeoStandard + @stylistic + JSDoc ruleset)

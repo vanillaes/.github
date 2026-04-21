@@ -19,7 +19,8 @@ jobs:
         node-version: 24
         registry-url: 'https://npm.pkg.github.com'
         scope: '@vanillaes'
-    - run: npm ci
+    - name: Dependencies
+      run: npm ci
     - name: Publish
       run: npm publish --access public
       env:

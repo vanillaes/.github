@@ -3,10 +3,6 @@ name: GitHub (NodeJS) Release
 on:
   workflow_call:
 
-permissions:
-  contents: read
-  id-token: write
-
 jobs:
   gh:
     runs-on: ubuntu-latest
@@ -22,3 +18,5 @@ jobs:
     - run: npm ci
     - name: Publish
       run: npm publish --provenance --access public
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.GHP_TOKEN }}

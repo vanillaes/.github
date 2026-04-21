@@ -17,6 +17,7 @@ jobs:
         with:
           node-version: 24
           registry-url: 'https://registry.npmjs.org'
+      - run: npm ci
       - name: Publish
         if: ${{ hashFiles('jsr.json') != '' }}
         run: npx jsr publish

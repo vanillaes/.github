@@ -20,6 +20,4 @@ jobs:
         scope: '@vanillaes'
     - run: npm ci
     - name: Publish
-      run: npm publish
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.GHP_TOKEN }}
+      run: npm publish --provenance --access public

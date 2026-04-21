@@ -11,5 +11,10 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v6
-      - if: ${{ hashFiles('jsr.json') != '' }}
+      - uses: denoland/setup-deno@v2
+        with:
+          cache: true
+      - run: deno install
+      - name: Publish
+        if: ${{ hashFiles('jsr.json') != '' }}
         run: npx jsr publish

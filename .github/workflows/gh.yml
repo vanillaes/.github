@@ -20,7 +20,7 @@ jobs:
         registry-url: 'https://npm.pkg.github.com'
         scope: '@vanillaes'
     - name: Dependencies
-      run: npm ci
+      run: npm ci --ignore-scripts
     - name: Publish
       run: npm publish --access public
       env:

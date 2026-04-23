@@ -19,6 +19,6 @@ jobs:
         node-version: 24
         registry-url: 'https://registry.npmjs.org'
     - name: Dependencies
-      run: npm ci
+      run: npm ci --ignore-scripts
     - name: Publish
       run: npm publish --provenance --access public

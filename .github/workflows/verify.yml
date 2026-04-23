@@ -15,12 +15,12 @@ jobs:
           node-version: 24    
       - name: Install Global Dependencies
         run: |
-          npm i -g esbuild && npm i -g typescript
+          npm i -g typescript
       - name: Install
-        run: npm ci
+        run: npm ci --ignore-scripts
+      - name: Test
+        run: npm test --if-present
       - name: Lint
         run: npm run lint --if-present
-      - name: Test
-        run: npm t --if-present
       - name: Type
         run: npm run type --if-present

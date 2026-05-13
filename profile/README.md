@@ -24,7 +24,6 @@ Fully-loaded for ESModule development. Including tools for testing, linting, typ
 - [FrontMeta][] - A FrontMatter parser for `key:value` metadata
 - [Interpolate][] - Interpret JavaScript tagged literal templates
 - [Mock-Console][] - Mock the 'console' (ie log, info, error) for testing
-- [Monaco-Editor-ES][] - Monaco Editor Builds for ESM
 
 [Absurdum]: https://github.com/vanillaes/absurdum
 [Computer-Science]: https://github.com/vanillaes/computer-science
@@ -37,7 +36,6 @@ Fully-loaded for ESModule development. Including tools for testing, linting, typ
 [JSDown]: https://github.com/vanillaes/jsdown
 [Lint-ES]: https://github.com/vanillaes/lint-es
 [Mock-Console]: https://github.com/vanillaes/mock-console
-[Monaco-Editor-ES]: https://github.com/vanillaes/monaco-editor-es
 [Tape-ES]: https://github.com/vanillaes/tape-es
 
 ## Resources

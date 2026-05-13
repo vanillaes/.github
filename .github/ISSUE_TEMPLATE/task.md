@@ -17,9 +17,9 @@ assignees: ''
 - [ ] frontmeta
 - [ ] interpolate
 - [ ] jqkill
+- [ ] jsdown
 - [ ] lint-es
 - [ ] mock-console
-- [ ] monaco-editor-es
 - [ ] tape-es
 
 <!-- WIP

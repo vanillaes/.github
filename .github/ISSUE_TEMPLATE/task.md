@@ -9,18 +9,18 @@ assignees: ''
 
 ## Checklist
 
-- [ ] absurdum
-- [ ] computer-science
-- [ ] csv
-- [ ] core-utils
-- [ ] esmtk
-- [ ] frontmeta
-- [ ] interpolate
-- [ ] jqkill
-- [ ] jsdown
-- [ ] lint-es
-- [ ] mock-console
-- [ ] tape-es
+- [ ] [absurdum](https://github.com/vanillaes/absurdum)
+- [ ] [computer-science](https://github.com/vanillaes/computer-science)
+- [ ] [csv](https://github.com/vanillaes/csv)
+- [ ] [core-utils](https://github.com/vanillaes/core-utils)
+- [ ] [esmtk](https://github.com/vanillaes/esmtk)
+- [ ] [frontmeta](https://github.com/vanillaes/frontmeta)
+- [ ] [interpolate](https://github.com/vanillaes/interpolate)
+- [ ] [jqkill](https://github.com/vanillaes/jqkill)
+- [ ] [jsdown](https://github.com/vanillaes/jsdown)
+- [ ] [lint-es](https://github.com/vanillaes/lint-es)
+- [ ] [mock-console](https://github.com/vanillaes/mock-console)
+- [ ] [tape-es](https://github.com/vanillaes/tape-es)
 
 <!-- WIP
 - [ ] markdown
